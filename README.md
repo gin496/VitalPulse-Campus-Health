@@ -9,7 +9,7 @@ VitaPulse is a mobile-responsive web prototype designed to support **Sustainable
 ## Team Members & Roles
 
 * 
-** 👑 Ahmed Faiaz [Student ID:0389505] - (Scrum Master & Lead Documentation):** Group Leader responsible for Trello management, Sprint Backlogs, and User Story refinement.
+**👑 Ahmed Faiaz [Student ID:0389505] - (Scrum Master & Lead Documentation):** Group Leader responsible for Trello management, Sprint Backlogs, and User Story refinement.
 
 
 * 
