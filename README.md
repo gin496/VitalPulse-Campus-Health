@@ -58,19 +58,19 @@ Developed through a series of **Sprints**, MediSwift utilizes a **Throwaway Prot
 
 ---
 
-### Folder Manifest
+### Folder Navigation
 
 
 
-| Folder | Mandatory Documents  | Purpose |
+| Folder | Purpose |
 
 
-|📁 **/planning** | `product_vision.md`, `product_backlog.pdf`, `sprint_1_notes.md` | Clear alignment with SDG goals and Trello evidence. |
+|📁 **/planning** | Clear alignment with SDG goals and Trello evidence. |
 
-|📁**/design** | `use_case_diagram.mermaid`, `wireframes_figma.pdf`, `database_ERD.png` | Proper UML notation and logical user-focused flow. |
+|📁 **/design** | Proper UML notation and logical user-focused flow. |
 
-|📁**/testing** | `test_plan.md`, `user_feedback_summary.xlsx`, `bug_report_log.md` | Proof of structured evaluation and improvements. |
+|📁 **/testing** | Proof of structured evaluation and improvements. |
 
-|📁**/final** | `final_prototype_screens.pdf`, `presentation_pitch_deck.pptx` | Professional showcase and link to user value. |
+|📁 **/final** | Professional showcase and link to user value. |
 
 ---
