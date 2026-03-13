@@ -57,7 +57,11 @@ The system provides three core value propositions:
 Developed through a series of **Sprints**, VitaPulse utilizes a **Throwaway Prototyping** model to validate UI/UX decisions before final implementation, ensuring the end product is both intuitive and highly efficient.
 
 ---
+[Figma](https://www.figma.com/design/EpTnmJP5FKnGywbP4qoZb8/VitaPulse_Final?node-id=1-68&t=5a35KV1riHqUzXs4-0)
+[Trello](https://trello.com/b/1JbXu73l/vitapulse-pse-project)
 
+
+---
 ### Folder Navigation
 
 
