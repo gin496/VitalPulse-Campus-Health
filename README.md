@@ -54,7 +54,7 @@ The system provides three core value propositions:
 
 
 
-Developed through a series of **Sprints**, MediSwift utilizes a **Throwaway Prototyping** model to validate UI/UX decisions before final implementation, ensuring the end product is both intuitive and highly efficient.
+Developed through a series of **Sprints**, VitaPulse utilizes a **Throwaway Prototyping** model to validate UI/UX decisions before final implementation, ensuring the end product is both intuitive and highly efficient.
 
 ---
 
